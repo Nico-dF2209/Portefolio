@@ -1,5 +1,11 @@
 # Changelog
 
+## V0.02 14/03/2023
+###ADDED
+- amélioration de la mobilité des blocs
+- recherche sur la transition
+- tantative infructueuse d'intégration de l'animation
+
 ## V0.02 13/03/2023
 ###ADDED
 - Systeme de drag and drop par copie d'élément
