@@ -1,5 +1,9 @@
 # Changelog
 
+## V0.02 15/03/2023
+###ADDED
+- test de l'intégration de plusieurs transitions
+
 ## V0.02 14/03/2023
 ###ADDED
 - amélioration de la mobilité des blocs
